@@ -32,7 +32,7 @@
     { "id": "nelle", "label": "Nelle" }
   ],
   "items": [
-    { "id": "b1", "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&h=400&fit=crop", "title": "Werkgeheugen kopen zonder twijfel dit moet je weten.", "author": "peter", "publishedDate": "2026-02-20", "updatedDate": "2026-02-20", "tagIds": ["hardware"], "categoryId": "advies", "excerpt": "", "url": "./advies-over-ram" },
+    { "id": "b1", "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&h=400&fit=crop", "title": "Werkgeheugen kopen zonder twijfel dit moet je weten.", "author": "peter", "publishedDate": "2026-02-20", "updatedDate": "2026-02-20", "tagIds": ["hardware"], "categoryId": "advies", "excerpt": "", "url": "/advies-module/advies-over-ram" },
     { "id": "b2", "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&h=400&fit=crop", "title": "Monitoring & alerting: van ruis naar actie", "author": "team-cm", "publishedDate": "2025-01-08", "updatedDate": "2026-02-08", "tagIds": ["beheer","optimalisatie"], "categoryId": "blog", "excerpt": "", "url": "/blog/monitoring-alerting" },
     { "id": "b3", "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=600&h=400&fit=crop", "title": "MFA & Conditional Access: snelle winst voor toegang", "author": "team-marketing", "publishedDate": "2025-01-01", "updatedDate": "2026-02-05", "tagIds": ["security","cloud"], "categoryId": "advies", "excerpt": "", "url": "/blog/mfa-conditional-access" },
     { "id": "b4", "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&h=400&fit=crop", "title": "Ransomware: back-up strategie en hersteltests", "author": "team-assemblage", "publishedDate": "2025-01-22", "updatedDate": "2026-02-12", "tagIds": ["security","kosten"], "categoryId": "blog", "excerpt": "", "url": "/blog/ransomware-backup-strategie" },
@@ -84,3 +84,4 @@
     { "id": "b50", "image": "https://images.unsplash.com/photo-1526374965328-7f5ae4e8b59e?w=600&h=400&fit=crop", "title": "Performance tuning: sneller netwerk en systemen", "author": "nelle", "publishedDate": "2025-01-21", "updatedDate": "2026-02-12", "tagIds": ["optimalisatie","beheer"], "categoryId": "blog", "excerpt": "", "url": "/blog/performance-tuning" }
   ]
 }
+
