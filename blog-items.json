@@ -29,7 +29,7 @@
   ],
   "items": [
     { "id": "b1", "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&h=400&fit=crop", "title": "Werkgeheugen kopen zonder twijfel dit moet je weten.", "author": "peter", "publishedDate": "2026-02-20", "updatedDate": "2026-02-20", "tagIds": ["hardware"], "categoryId": "advies", "excerpt": "", "url": "/advies-module/advies-over-ram" },
-    { "id": "b2", "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&h=400&fit=crop", "title": "Hoe kies je een laptop voor je bedrijf?", "author": "rick", "publishedDate": "2026-02-24", "updatedDate": "2026-02-24", "tagIds": ["werkplek","kosten"], "categoryId": "advies", "excerpt": "", "url": "/advies-module/kies-laptop-voor-je-bedrijf" },
+    { "id": "b2", "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&h=400&fit=crop", "title": "Hoe kies je een laptop voor je bedrijf?", "author": "raymond", "publishedDate": "2026-02-24", "updatedDate": "2026-02-24", "tagIds": ["werkplek","kosten"], "categoryId": "advies", "excerpt": "", "url": "/advies-module/kies-laptop-voor-je-bedrijf" },
     { "id": "b3", "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=600&h=400&fit=crop", "title": "MFA & Conditional Access: snelle winst voor toegang", "author": "rick", "publishedDate": "2025-01-01", "updatedDate": "2026-02-05", "tagIds": ["security","cloud"], "categoryId": "advies", "excerpt": "", "url": "/blog/mfa-conditional-access" },
     { "id": "b4", "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&h=400&fit=crop", "title": "Ransomware: back-up strategie en hersteltests", "author": "peter", "publishedDate": "2025-01-22", "updatedDate": "2026-02-12", "tagIds": ["security","kosten"], "categoryId": "blog", "excerpt": "", "url": "/blog/ransomware-backup-strategie" },
     { "id": "b5", "image": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=600&h=400&fit=crop", "title": "Top 10 zakelijke laptops van 2025", "author": "peter", "publishedDate": "2024-12-28", "updatedDate": "2026-01-30", "tagIds": ["hardware","werkplek"], "categoryId": "top-10", "excerpt": "", "url": "/blog/top-10-zakelijke-laptops-2025" },
@@ -80,3 +80,4 @@
     { "id": "b50", "image": "https://images.unsplash.com/photo-1526374965328-7f5ae4e8b59e?w=600&h=400&fit=crop", "title": "Performance tuning: sneller netwerk en systemen", "author": "nelle", "publishedDate": "2025-01-21", "updatedDate": "2026-02-12", "tagIds": ["optimalisatie","beheer"], "categoryId": "blog", "excerpt": "", "url": "/blog/performance-tuning" }
   ]
 }
+
